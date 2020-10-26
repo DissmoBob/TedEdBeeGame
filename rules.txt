@@ -1,0 +1,8 @@
+Rules:
+1. Bees can be placed in any hex in a hive. A placed bee will transform a hex.
+
+2. If a hex neighbors at least three transformed hexes, the bees will transform it too.
+
+3. You cannot move bees once they are placed.
+
+4. The goal is to fill the whole hive with the least amount of bees possible.

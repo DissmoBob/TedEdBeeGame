@@ -1,0 +1,2 @@
+Read rules.txt to clarify the rules of the game.
+Make sure to have Processing 3.5.4 for Python installed. Open up BeeGame.pyde. Click the button at the top right with a triangle to start the program. The necessary window will open up.
